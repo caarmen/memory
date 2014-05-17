@@ -1,5 +1,7 @@
 "THE WINE-WARE LICENSE" 
+
 Version 1.0: 
+
 Authors: Carmen Alvarez, Benoît "BoD" Lubek. 
 
 As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a glass of wine in return.
